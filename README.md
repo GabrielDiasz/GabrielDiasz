@@ -1,7 +1,7 @@
 # Olá! Meu nome é Gabriel Dias 👋
 
 - 🔭 Atualmente trabalhando na FAB ✈
-- 🌱 Estudando Desenvolvimento Mobile 📱
+- 🌱 Estudando Desenvolvimento Web no programa Explorer da Rocketseat! 🚀💜
 - 😄 Pronouns: ele/dele
 
 <div align="center">
