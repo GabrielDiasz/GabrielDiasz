@@ -1,21 +1,19 @@
-# Olá! Meu nome é Gabriel Dias 👋
+# Hello there! I'm Gabriel Dias 👋
 
-<!-- 🔭 Atualmente trabalhando na FAB ✈-->
-- 🌱 Estudando Desenvolvimento Web no programa Explorer da Rocketseat! 🚀💜
-- 😄 Pronouns: ele/dele
+- 🌱 Studying Web Development at Rocketseat! 🚀💜
 
 <div align="center">
   <a href="https://github.com/GabrielDiasz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielDiasz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDiasz&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Gabriel-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="Gabriel-ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Gabriel-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </div>
   
 ##
