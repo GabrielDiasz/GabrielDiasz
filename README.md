@@ -1,6 +1,6 @@
 # Hello there! I'm Gabriel Dias 👋
 
-- 🌱 Studying Web Development at Rocketseat! 🚀💜
+<!-- - 🌱 Studying Web Development at Rocketseat! 🚀💜 -->
 
 <div align="center">
   <a href="https://github.com/GabrielDiasz">
