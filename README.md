@@ -36,4 +36,5 @@
 </p>
   
 ## 🐍 Contribuições
+
 ![Snake animation](https://raw.githubusercontent.com/GabrielDiasz/GabrielDiasz/output/github-contribution-grid-snake.svg)              
