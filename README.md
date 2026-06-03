@@ -8,7 +8,7 @@
 ## 🚀 Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,js,html,css,tailwind,git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,git,github,docker,linux,vscode" />
 </p>
 
 ## 💼 Especialidades
