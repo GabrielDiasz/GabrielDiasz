@@ -15,12 +15,9 @@
 
 - Desenvolvimento Full Stack com Laravel
 - APIs REST
-- Integrações WhatsApp
-- Filas e Jobs (Laravel Queue)
 - MySQL e PostgreSQL
 - Docker e Linux
 - Automação de Processos
-- Infraestrutura para Provedores de Internet
 - Redes de Computadores
   
 ## 📫 Contato
